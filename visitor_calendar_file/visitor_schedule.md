@@ -18,3 +18,13 @@ destructive_sampling | Yes/No | Waiting | Asked to remove material| |
 imaging_form  | Yes/No| Waiting | Asked to capture images| |
 s/p | TINYTEXT | Waiting | Student and/or professional| |
 notes  | TEXT | Waiting | Internal notes about the visitor| |
+
+
+
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
