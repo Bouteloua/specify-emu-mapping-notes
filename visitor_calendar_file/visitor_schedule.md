@@ -5,7 +5,7 @@ visitor_schedule.csv
 Contains history of visitor schedule and how the collected is being studied
 
 |HUH Header  | Data Type | Emu Header |  Descriptor | Rule | Notes|
-------------- |: -------------|: -------------|: -------------: |-------------: |
+------------- |: -------------:| -------------:| -------------: |-------------: |
 date_start | DATE | Waiting | Date arrived | |
 date_end  | DATE | Waiting | Departure date | |
 duration of visit (day)  | INT | Waiting | Departure date - date arrived = days of stay| |
